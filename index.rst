@@ -7,7 +7,7 @@ Welcome to CUHK robotics team!
 ========================================
 It is the website for documentation and tutorial.
 
-.. image:: team_photo.jpg
+.. image:: ../team_photo.jpg
 
 .. toctree::
    :maxdepth: 2
